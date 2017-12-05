@@ -184,8 +184,8 @@
 ```
 ## 更优雅的注销处理方式,请看我的另一个项目: [RxLifecycle](https://github.com/dhhAndroid/RxLifecycle),优雅地处理RxJava注销问题,和Activity生命周期绑定.
 ## 如果本库对你有帮助,谢谢您的star!
-### RxJava交流群
-[![点击加群](image/Android网络编程广东交流微信群二维码.png)](https://jq.qq.com/?_wv=1027&k=59SkTQ6) 
+### 微信二维码
+[!(image/me-wechat.gif)] 
 
 License
 -------
